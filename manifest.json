@@ -1,0 +1,11 @@
+{
+  "version": "1",
+  "files": {
+    "red.jpg": "e28ffc533d78b785f7a60fab45ae33bd08c36b583eb2c21f9acd7c42f7750ef9",
+    "red.png": "498d8661aa01df44c150c3a38d742246ca92af9b5ac541315854e205885a4621",
+    "test-folder/blue.jpg": "dabae16ae169f99f30707782fa356cd46ad7471478a433ea7bcb05f9d2746aaa",
+    "test-folder/blue.png": "94a931c85a4ea9f64d6799f856c1c43b0f650d6df2b9b2fd7271a583cdeab65c",
+    "yellow.jpg": "c491f4eabe3182ee178162d12472169c29c4c28f11d453d7f8d86c05227ffb8c",
+    "yellow.png": "bd5b5506df04f9d22d6cdd23447416786e760b59d3447858ca6ac1f5d9abe700"
+  }
+}
