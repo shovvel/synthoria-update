@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "files": {
     "Engine/Binaries/ThirdParty/CEF3/Win64/chrome_elf.dll": "b12d138eda189d4d8a12c29d3683ee08d38f44f27eccc94c1535271eca506195",
     "Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_47.dll": "e26032a52b26f0a731c33bc4b57b6a17c91b0c3d11df18d9318e17c0c36f7237",
@@ -153,9 +153,9 @@
     "Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat": "e8f7ef9c88697041bd87902b76e52558979ca866c7450b1da108a94a027f441b",
     "Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh": "1b222b5d5aad6dd9b5b9f0a1c72d38635149540f2c7a368600ec76c1d304390a",
     "Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe": "794b69ff214714ad55ce778b6278493c1304512b4d0a2710883b0ffa1f88003d",
-    "Manifest_DebugFiles_Win64.txt": "e851fe62c585c7e5d56f0f5f32cce400e7477c2b35237937456dcd7e75a2efcc",
-    "Manifest_NonUFSFiles_Win64.txt": "266d2b78307bbaf5558aae4842b697e88dfcc6797d91b783d96168aa6894306e",
-    "Manifest_UFSFiles_Win64.txt": "e0a15100d7976dd36dc2f83c467262244aa1ed18445494b09aac4c8c7dd1cb38",
+    "Manifest_DebugFiles_Win64.txt": "e2661c5bf37a5d5f796d3f2018c4f0a4aa0e260816cf31b962126293af536c20",
+    "Manifest_NonUFSFiles_Win64.txt": "c6388d67a2587aa12d416d095ebb5abaf6f23502b294a3c81aa6232de93fd603",
+    "Manifest_UFSFiles_Win64.txt": "2cf65d0bc1e3a227d13076ee65c95ae5c174a36b17f3380c7ef0b6af25c2e040",
     "Synthoria/Binaries/Win64/agora_rtc_sdk.dll": "6c603b7cc715545da5d11cbc7cb1b2db41d26706715932dae08118ff8cbc03fe",
     "Synthoria/Binaries/Win64/agora_rtc_sdk.dll.lib": "1ab5c4ad35c0a5fa06b2a62a05f948310b990228720ca90580069a653c9c455c",
     "Synthoria/Binaries/Win64/api-ms-win-core-console-l1-1-0.dll": "e1a722e34362c99c58a14ccb6ec22a1c48b8f74ed1c065db01de477bb838900c",
@@ -255,8 +255,8 @@
     "Synthoria/Binaries/Win64/msvcp140_codecvt_ids.dll": "a4b8bfb14b342edb2924d785bd0bbae833daf833b85f8e9c6eb4d27f78a03bbc",
     "Synthoria/Binaries/Win64/OpenColorIO_2_3.dll": "701ecbf1846ece8f6918cac4ab3f2171668ac22f35f18e95ac0bb4658cd5742a",
     "Synthoria/Binaries/Win64/OpenImageDenoise.dll": "82c1f648036be1b9cd57da8a325a92be58c6a9b8aaeaa464f42a33ea50dc41f3",
-    "Synthoria/Binaries/Win64/Synthoria.exe": "be13e9367382b55dc5260a8492dcba05e25276e1797305261822a9e37ee2d17b",
-    "Synthoria/Binaries/Win64/Synthoria.pdb": "7f59180aefef7d85716de8dc181792b7dd160f35c4eff708b636f4e669e73b2f",
+    "Synthoria/Binaries/Win64/Synthoria.exe": "ef5bfd40a9220ecb206da727e2b4e0a7055df2be734a31f8697823b943ef4b8a",
+    "Synthoria/Binaries/Win64/Synthoria.pdb": "addc219deaa170c1efb51bd0969bbf2345e6f9b01cbeabcb943511dd10fef424",
     "Synthoria/Binaries/Win64/tbb.dll": "464901ef0368f4dc6818fbfc0c6cd76204d3ab86123a36f262de1737eef2eb67",
     "Synthoria/Binaries/Win64/tbb.pdb": "241455a154d1686242b1731a5ee7010f11a3c455b987ed2c69555443f4e12a00",
     "Synthoria/Binaries/Win64/tbb12.dll": "1cb7cd134cdfae523b640ded2dcb129dd79063ba06d85b1f9cb58ba2fb8b4434",
@@ -276,11 +276,11 @@
     "Synthoria/Binaries/Win64/XAudio2_7.dll": "38210567bc3e7bdab8d95932f1d4ba55a01cd4bbed0e44e60f39e9c19e3b8afd",
     "Synthoria/Binaries/Win64/xinput1_3.dll": "99635e7223c5aca6f9afacee3c341449c4976141ea531a70eb6b4c9c37e21f28",
     "Synthoria/Content/Movies/Unreal Engine Intro.mp4": "893078e036b94f412083f50d49b25d0ae0a49102dc2975fdebddc8508a6cdeba",
-    "Synthoria/Content/Paks/global.ucas": "54b1b85cc97d0697828b30d91abd24e1f2242adc65f5d58ab024d79ecc6c7669",
-    "Synthoria/Content/Paks/global.utoc": "b8fcea50b708388252b55767eb59708911caa3fe01fb15dd540f2397a68556cf",
-    "Synthoria/Content/Paks/Synthoria-Windows.pak": "ff525f3b34f514b6b423a30fb0efc7d185874fb418b18e08a9ef8c23cdc6be0d",
-    "Synthoria/Content/Paks/Synthoria-Windows.ucas": "335b719baf49c4052d12231adfa8da72557073670d999824004c390d4d54e41b",
-    "Synthoria/Content/Paks/Synthoria-Windows.utoc": "eb07e752f80155e1d059bdbcf6c182077d135cff31924fa9083a8f05459aff94",
+    "Synthoria/Content/Paks/global.ucas": "12c0c26a3b4ea10985eb431cbca9e58d03e008947b8570a1e9087f865a9975c6",
+    "Synthoria/Content/Paks/global.utoc": "4154b40d079325fe5290208488b62ec6d46d5acdd64c89682a28e8482ed18ad4",
+    "Synthoria/Content/Paks/Synthoria-Windows.pak": "2d0b15ad792383dc5e1b3984499199724b1fea69419ba94d1c1c519296815ce7",
+    "Synthoria/Content/Paks/Synthoria-Windows.ucas": "097fba176a042279b2ddbd55447bdb4339585c154c8f346115706ede510ed888",
+    "Synthoria/Content/Paks/Synthoria-Windows.utoc": "fd5a939a4303f042e3a0627d90167042367690a33c179c3d2c3a4f5c44a5da7c",
     "Synthoria.exe": "10427f320b37bdc02a89b7af606f8f83a4f4729de3812eb239b1c5be087c2484"
   }
 }
