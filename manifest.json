@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "files": {
     "Engine/Binaries/ThirdParty/CEF3/Win64/chrome_elf.dll": "f6810bb4c2e086b909a77808ba050bc3b8a2067db41eaec4b42f7a4ec61b4568",
     "Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_47.dll": "17860a89d048c271cac9d2910795d4f20c82854337c076a7dfa0c6e8d8f580af",
@@ -155,9 +155,9 @@
     "Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh": "1b222b5d5aad6dd9b5b9f0a1c72d38635149540f2c7a368600ec76c1d304390a",
     "Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe": "d0ce78f1771cf3ae0b13f01c262c1c6fd3d673d673678d3ca7c0569a75963d27",
     "Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll": "7e90e089d2df40b1a83b11434d6df8f9d963f1d1d684f1c22645660ba3a55772",
-    "Manifest_DebugFiles_Win64.txt": "d6bc74ecc48690d26af9eb6ee336fc407f11ce82af701b989d2f652c17ef21b1",
-    "Manifest_NonUFSFiles_Win64.txt": "81c5a03d42c41d686068151f535baa04cf50bafccf3d8a52cd14de7f2fd1e4d6",
-    "Manifest_UFSFiles_Win64.txt": "79feb44b8c080d3f0fe90b6086a15460b5b7444ca41dc4085e9d0bc3655e9dd5",
+    "Manifest_DebugFiles_Win64.txt": "c98dbae52a1c4860d5e8012cea1649efad9c584d7c7cd2b43738ed151cebb9a3",
+    "Manifest_NonUFSFiles_Win64.txt": "63df9fcfa59784af8fa1aec93fc5d6e12b4b6589b111c2b2f49f5c38784769db",
+    "Manifest_UFSFiles_Win64.txt": "6db8002529139470b280cdc31b09748ab2604bf4708ce681b9fecc793d7c14c5",
     "Synthoria/Binaries/Win64/agora_rtc_sdk.dll": "6c603b7cc715545da5d11cbc7cb1b2db41d26706715932dae08118ff8cbc03fe",
     "Synthoria/Binaries/Win64/agora_rtc_sdk.dll.lib": "1ab5c4ad35c0a5fa06b2a62a05f948310b990228720ca90580069a653c9c455c",
     "Synthoria/Binaries/Win64/api-ms-win-core-console-l1-1-0.dll": "8c46ddd64e5c0be9ed8b91c70853499c05867c805668e7e5f3fc5aa7933fdf61",
@@ -266,8 +266,8 @@
     "Synthoria/Binaries/Win64/msvcp140_atomic_wait.dll": "8bb6e7ebe034b293e8c01a3a4216d09eb4a5daaf6a552c559d4546187f7eebed",
     "Synthoria/Binaries/Win64/msvcp140_codecvt_ids.dll": "db68514053ae9a5ee9dd3ed7f8106d4d874f49f4ff826d5e0e3b787eeffda04a",
     "Synthoria/Binaries/Win64/OpenColorIO_2_3.dll": "bb461941510155eca4f90e2c4d65a1356e75eac0985f0c5cdea26e4c606111f0",
-    "Synthoria/Binaries/Win64/Synthoria.exe": "243773858a55cb10de02fb57f7c59fb8527886cb1a6b737e42e471bff62da172",
-    "Synthoria/Binaries/Win64/Synthoria.pdb": "b14d04f8dfebfdc5d2bbcc2920e90b44be9784c27b68b4b64856ad0bea34b691",
+    "Synthoria/Binaries/Win64/Synthoria.exe": "0c21eaf14715b16ee3973f7dfd79d0ccb72567b44a596d5d44a2265afe9ed1f8",
+    "Synthoria/Binaries/Win64/Synthoria.pdb": "906fb1214713fb8e49279a8e5281e387f7c15ad898792bf50c988f568e005fb6",
     "Synthoria/Binaries/Win64/tbb.dll": "35863379302909cc4c6cc73c388a1d23bc7f5fa668e439dac2264327a4fc41d6",
     "Synthoria/Binaries/Win64/tbb.pdb": "241455a154d1686242b1731a5ee7010f11a3c455b987ed2c69555443f4e12a00",
     "Synthoria/Binaries/Win64/tbbmalloc.dll": "65fc3984517eed2b0758b4d6c6319e2da9dcf7dac1192b793ad04713ceca8fa5",
@@ -287,9 +287,9 @@
     "Synthoria/Binaries/Win64/xinput1_3.dll": "b69d732b24bc70e6fcd2716612ab9153af78168e0a1817f233a99db72ce9bac7",
     "Synthoria/Content/Paks/global.ucas": "d8cd9fbc7b1cd542c3852b96c438aae04d1b8ca55a7c82b5521040059c43bad6",
     "Synthoria/Content/Paks/global.utoc": "7270225d08691c3168e4e5e025b0419490810812d2cbfd61626ce0e03a36efeb",
-    "Synthoria/Content/Paks/Synthoria-Windows.pak": "a4f5251b1ac3c8f35d1bf4d2feed90de55e37aabf90289def3842075544a132a",
-    "Synthoria/Content/Paks/Synthoria-Windows.ucas": "b99ba9c12ddc6de0f5efb273e1682e5ba3c785c38a922858f96897db40c3fe9d",
-    "Synthoria/Content/Paks/Synthoria-Windows.utoc": "b93a7a83ae8b288e221cc2ce713f27f4b6c7f39f85232d6e201264bf0a1ce2e1",
+    "Synthoria/Content/Paks/Synthoria-Windows.pak": "915c516dfd0fed9631778db2fe32d7d3bb68e19e52fcb689a25ef8379abea855",
+    "Synthoria/Content/Paks/Synthoria-Windows.ucas": "61cc25e8ed1903013d4baf6ef5c0a8ed72a28c1e51dcc3d9d98a01f9b77daad3",
+    "Synthoria/Content/Paks/Synthoria-Windows.utoc": "e2fcb9397a74bdf91139050f4fc4d3263000765a832c1c078816e5f39d60298f",
     "Synthoria.exe": "07954dcd88d7ddc8b2e793fde1a4e28f1bf2fc4cefa8cd40367d6fb651988aae"
   }
 }
